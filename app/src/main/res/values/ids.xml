@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="text_username" type="id" />
+    <item name="text_first_name" type="id" />
+    <item name="text_last_name" type="id" />
+    <item name="text_email" type="id" />
+    <item name="text_bio" type="id" />
+    <item name="image_profile" type="id" />
+    <item name="btn_edit_profile" type="id" />
+    <item name="btn_change_password" type="id" />
+    <item name="btn_delete_profile" type="id" />
+    <item name="btn_logout" type="id" />
+</resources>
